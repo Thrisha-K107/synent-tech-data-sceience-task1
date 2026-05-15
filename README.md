@@ -1,5 +1,3 @@
-# synent-tech-data-sceience-task1
-My first Internship with Task 1
 # 🧹 Task 1: Data Cleaning & Preprocessing
 ### Synent Technologies — Data Science Internship
 
